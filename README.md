@@ -12,6 +12,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=nandan7198&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nandan7198&theme=nightowl&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nandan7198&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
